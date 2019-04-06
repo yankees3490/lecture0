@@ -1,0 +1,37 @@
+
+
+h3 {
+  text-align: center;
+  color: SeaGreen;
+  background-color: green
+  font-family: "Times New Roman", Times, serif;
+  border-style: solid;
+  border-width: 5px;
+}
+
+h2 {
+  text-align: right;
+  color: pink;
+  background-color: green
+  font-family: "Times New Roman", Times, serif;
+  border-style: dotted solid;
+  border-width: 5px;
+}
+
+.bike_Catatories {
+  background-color: tomato;
+  color: white;
+  padding: 10px;
+}
+
+#uber {
+  background-color: yellow;
+  color: pink;
+  padding: 10px;
+}
+
+#vintage {
+  font-family: "Roboto", sans-serif
+  color: red;
+  padding: 5px;
+}

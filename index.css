@@ -1,8 +1,17 @@
+@media (min-width: 500px) {
+    body {
+        background-color: white;
+    }
+}
 
-
+@media (max-width: 499px) {
+    body {
+        background-color: grey;
+    }
+}
 h3 {
   text-align: center;
-  color: SeaGreen;
+  color: pink;
   background-color: green
   font-family: "Times New Roman", Times, serif;
   border-style: solid;
@@ -10,11 +19,11 @@ h3 {
 }
 
 h2 {
-  text-align: right;
+  text-align: center;
   color: pink;
   background-color: green
   font-family: "Times New Roman", Times, serif;
-  border-style: dotted solid;
+  border-style: solid;
   border-width: 5px;
 }
 

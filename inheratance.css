@@ -1,0 +1,19 @@
+.Spring, .Winter, .Fall, .Summer {
+  font-family: sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+  border: 1px solid black;
+  padding: 20px;
+  margin: 20px; }
+
+.Winter {
+    background-color: gray; }
+
+.Spring {
+  background-color: LawnGreen; }
+
+.Summer {
+  background-color: DarkOrange; }
+
+.Fall {
+  background-color: SandyBrown; }

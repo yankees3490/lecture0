@@ -9,20 +9,20 @@
 
 .Winter {
     @extend %message;
-    background-color: green;
+    background-color: gray;
 }
 
 .Spring {
     @extend %message;
-    background-color: pink;
+    background-color: green;
 }
 
 .Summer{
     @extend %message;
-    background-color: purple;
+    background-color: DarkOrange;
 }
 
 .Fall{
     @extend %message;
-    background-color: blue;
+    background-color: SandyBrown;
 }
